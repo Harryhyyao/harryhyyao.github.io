@@ -1,1 +1,5 @@
 theme = "PaperMod"
+baseURL = "https://harryhyyao.github.io/"
+languageCode = "zh-cn"
+title = "康庄大道1959号栗子山居士"
+theme = "你使用的主题名称（比如 hugo-theme-chunky-poster）"
